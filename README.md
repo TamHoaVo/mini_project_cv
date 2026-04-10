@@ -15,7 +15,7 @@ The script processes all .mp4 files inside the videos/ folder and prints:
 
 pip install ultralytics torch torchvision opencv-python
 
-**Overview-dimensions measurement **
+**Overview-Dimensions measurements**
 
 This script performs basic facial measurements from a single image (face.png) using:
 - OpenCV Haar Cascade for face detection
